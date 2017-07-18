@@ -1,0 +1,9 @@
+Package: GxTheta
+Type: Package
+Title: This package implements a statistical approach for using ancestry in GxG and GxE interaction analyses. 
+Version: 1.0
+Date: 2015-12-10
+Author: Danny S. Park, Eric R. Gamazon, Noah Zaitlen 
+Maintainer: Danny S. Park <sihyung@gmail.com>
+Description: Gene-gene and gene-environment interactions are known to contribute significantly to variation of complex phenotypes in model organisms. However, their identification in human associations studies remains challenging for myriad reasons. In the case of gene-gene interactions, the large number of potential interacting pairs presents computational, multiple hypothesis correction, and other statistical power issues. In the case of gene-environment interactions, the lack of consistently measured environmental covariates in most disease studies precludes searching for interactions and creates difficulties for replicating studies. We develop a new statistical approach to address these issues that leverages genetic ancestry (theta).
+License: GPL-2 
